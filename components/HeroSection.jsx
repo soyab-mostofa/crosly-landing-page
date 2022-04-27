@@ -58,7 +58,7 @@ const HeroSection = () => {
           decided the vinyl experience was also for everyone. Our first record
           player was released In 1992, when CDs were still king. Naturally,
           everyone thought we were nuts. But now, after over 30 years of
-          bringing stylish music to the people, we're one of the biggest
+          bringing stylish music to the people, we&apos;re one of the biggest
           manufacturers and trendsetters of the new-millennium Vinyl Resurgence
         </p>
         <button className="flex gap-2 mt-4 items-center uppercase">
